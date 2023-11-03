@@ -1,1 +1,4 @@
 *.class
+secret.*
+doc*.js
+*.cpp
